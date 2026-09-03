@@ -17,7 +17,7 @@ Nahlam is an early proposal for an open civic movement through which Syrians can
 
 Plans, decisions, budgets, selection processes, contracts, and progress should be documented publicly. The process is open. Personal information is not.
 
-Nahlam is at the beginning. It is currently one person’s proposal — there is no project, funding, government agreement, or announced partnership. The first task is to explain the idea clearly and invite others to examine it.
+Nahlam is at the beginning. It is currently one person’s proposal. there is no project, funding, government agreement, or announced partnership. The first task is to explain the idea clearly and invite others to examine it.
 
 <div dir="rtl" align="right">
 
