@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  An open civic movement in formation
+  An open civic movement
   <br>
-  <span dir="rtl">حركة مدنية مفتوحة المصدر، قيد التأسيس</span>
+  <span dir="rtl">حركة مدنية مفتوحة المصدر</span>
 </p>
 
 ---
